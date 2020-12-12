@@ -18,7 +18,7 @@ I found the following pages to be helpful with information about pickling.
 https://www.geeksforgeeks.org/understanding-python-pickling-example/ (external)  
 sample:  
 
-![Geeks for Geek sample](/docs/pics/geeksforgeeks_sample.png "Geeks for Geeks") 
+![Geeks for Geek sample](docs/pics/geeksforgeeks_sample.png "Geeks for Geeks") 
  
 
 https://www.datacamp.com/community/tutorials/pickle-python-tutorial (external)  
