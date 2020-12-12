@@ -24,29 +24,29 @@ sample:
 https://www.datacamp.com/community/tutorials/pickle-python-tutorial (external)  
 sample:  
 
-![Data camps sample](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/data_camps_sample.png "Data Camp")
+![Data camps sample](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/data_camps_sample.png "Data Camp")
 
 https://yasoob.me/2013/08/02/what-is-pickle-in-python/ (external)  
 sample:  
 
-![Yasoob sample](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/yasoob_sample.png "Yasoob Sample")  
+![Yasoob sample](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/yasoob_sample.png "Yasoob Sample")  
  
 I found the following pages very helpful with learning about python exception handling.  
 
 https://docs.python.org/3/tutorial/errors.html (external)  
 sample:  
  
-![Python.org sample](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/python_org_sample.png "Python.org sample")
+![Python.org sample](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/python_org_sample.png "Python.org sample")
 
 https://www.datacamp.com/community/tutorials/exception-handling-python (external)  
 sample:  
 
-![Data camp samples](https://github.com/rvandercar/IntroToProg-Python-Mod7/main/docs/pics/data_camp_error_sample.png "Data Camp Samples2")
+![Data camp samples](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/data_camp_error_sample.png "Data Camp Samples2")
 
 https://overiq.com/python-101/exception-handling-in-python/ (external)  
 sample:  
 
-![Overiq sample](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/over_iq_sample.png "Overiq Sample")
+![Overiq sample](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/over_iq_sample.png "Overiq Sample")
 
 I enjoyed learning about the exception handling as I think it’s important to use this to make your program nicer to use.  
 
