@@ -3,7 +3,7 @@ Rick Vandercar
 IT FDN 110A Intro to Programming (Python)  
 Assignment07  
 https://github.com/rvandercar/IntroToProg-Python-Mod7  
-https://github.com/rvandercar/IntroToProg-Python-Mod7/edit/main/docs/index.md  
+https://rvandercar.github.io/IntroToProg-Python-Mod7/  
 
 # Files, exceptions, & GitHub
 
