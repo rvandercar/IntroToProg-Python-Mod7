@@ -41,7 +41,7 @@ sample:
 https://www.datacamp.com/community/tutorials/exception-handling-python (external)  
 sample:  
 
-![Data camp samples](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/data_camp_error_sample.png "Data Camp Samples")
+![Data camp samples](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/data_camp_error_sample.png "Data Camp Samples2")
 
 https://overiq.com/python-101/exception-handling-in-python/ (external)  
 sample:  
