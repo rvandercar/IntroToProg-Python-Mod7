@@ -63,59 +63,59 @@ A file is not necessary to start the program, but if you try to save to the file
 
 Initial menu in PyCharm
 
-![Inital menu in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/init_py.png "Initial menu in PyCharm")
+![Inital menu in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/init_py.png "Initial menu in PyCharm")
 
 Showing missing file exception in PyCharm  
 
-![File exception in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/file_py.png "File exception in PyCharm")
+![File exception in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/file_py.png "File exception in PyCharm")
 
 Adding to list in PyCharm  
 
-![Adding to list in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/list_py.png "Adding to list in PyCharm")
+![Adding to list in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/list_py.png "Adding to list in PyCharm")
 
 Showing error trapping of text for price in PyCharm  
 
-![Error trapping of price in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/price_py.png "Price error trapping in PyCharm")
+![Error trapping of price in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/price_py.png "Price error trapping in PyCharm")
 
 Showing recovery after error exception in PyCharm  
 
-![Error recovery in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/revocer_py.png "Error recovery in PyCharm")
+![Error recovery in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/revocer_py.png "Error recovery in PyCharm")
  
 Showing file being saved (using pickle) in PyCharm  
 
-![Pickling in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/save_py.png "Pickling in PyCharm")
+![Pickling in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/save_py.png "Pickling in PyCharm")
 
 Showing reading of pickled file in PyCharm  
 
-![Reading pickled file in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/read_py.png "Reading pickled file in PyCharm")
+![Reading pickled file in PyCharm](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/read_py.png "Reading pickled file in PyCharm")
 
 Initial menu in terminal  
 
-![Initial page in Terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/init_term.png "Initial page in terminal")
+![Initial page in Terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/init_term.png "Initial page in terminal")
 
 Showing missing file exception in terminal  
 
-![Missing file in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/file_term.png "Missing page in terminal")
+![Missing file in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/file_term.png "Missing page in terminal")
 
 Adding to list in terminal  
 
-![Adding to list in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/list_term.png "Adding to list in terminal")
+![Adding to list in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/list_term.png "Adding to list in terminal")
 
 Showing error trapping of text for price in terminal  
 
-![Error trapping of price in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/price_term.png "Price error trapping in terminal") 
+![Error trapping of price in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/price_term.png "Price error trapping in terminal") 
 
 Showing recovery after error exception in terminal  
 
-![Error recovery in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/revocer_term.png "Error recovery in terminal")
+![Error recovery in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/revocer_term.png "Error recovery in terminal")
 
 Showing file being saved (using pickle) in terminal  
 
-![Pickling in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/save_term.png "Pickling in terminal")
+![Pickling in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/save_term.png "Pickling in terminal")
 
 Showing reading of pickled file in terminal  
 
-![Reading pickled file in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/blob/main/docs/pics/read_term.png "Reading pickled file in terminal")
+![Reading pickled file in terminal](https://github.com/rvandercar/IntroToProg-Python-Mod7/raw/main/docs/pics/read_term.png "Reading pickled file in terminal")
 
 
 ## Summary  
